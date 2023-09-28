@@ -5,6 +5,7 @@ import ChatRoom from "./views/pages/ChatRoom";
 function App() {
   return (
     <div>
+      
       <CssBaseline />
       <ChatRoom />
     </div>
